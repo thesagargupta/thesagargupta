@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/offisagargupta" target="blank"><img src="https://img.shields.io/twitter/follow/offisagargupta?logo=twitter&style=for-the-badge" alt="offisagargupta" /></a> </p>
 
-- 🌱 I’m currently learning **React Native(Pursuing B.C.A from Rajasthan University)**
+- 🌱 I’m currently (Pursuing B.C.A from Rajasthan University)**
 
-- 💬 Ask me about **Web Development, Data Analyst**
+- 💬 Ask me about **Web Development, Data Analyst, Software Development**
 
 - 📫 How to reach me **sagarkshn8@gmail.com**
 
