@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesagargupta&label=Profile%20views&color=0e75b6&style=flat" alt="thesagargupta" /> </p>
 
-<p align="left"> <a href="https://twitter.com/offisagargupta" target="blank"><img src="https://img.shields.io/twitter/follow/offisagargupta?logo=twitter&style=for-the-badge" alt="offisagargupta" /></a> </p>
+<p align="left"> <a href="https://instagram.com/sagargupta.official" target="blank"><img src="https://img.shields.io/twitter/follow/offisagargupta?logo=twitter&style=for-the-badge" alt="offisagargupta" /></a> </p>
 
 - 🌱 I’m currently (Pursuing B.C.A from Rajasthan University)**
 
