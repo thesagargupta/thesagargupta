@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/offisagargupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="offisagargupta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sagar-gupta-9354aa258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-gupta-9354aa258" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sagar-gupta-1b107a315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-gupta-9354aa258" height="30" width="40" /></a>
 <a href="https://fb.com/sagargupta.offi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagargupta.offi" height="30" width="40" /></a>
 <a href="https://instagram.com/sagargupta.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagargupta.official" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sagarkshn8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sagarkshn8" height="30" width="40" /></a>
