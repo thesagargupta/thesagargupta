@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://instagram.com/sagargupta.official" target="blank"><img src="https://img.shields.io/twitter/follow/SagarGupta?logo=twitter&style=for-the-badge" alt="@sagargupta.official" /></a> </p>
 
-- 🌱 I’m currently (Pursuing B.C.A from Rajasthan University)**
+- 🌱 I’m currently (Pursuing B.C.A from Rajasthan University)
 
 - 💬 Ask me about **Web Development, Data Analyst, Software Development**
 
