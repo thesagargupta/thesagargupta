@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/sagar-gupta-1b107a315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-gupta-9354aa258" height="30" width="40" /></a>
 <a href="https://fb.com/sagargupta.offi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagargupta.offi" height="30" width="40" /></a>
 <a href="https://instagram.com/sagargupta.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagargupta.official" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sagarkshn8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sagarkshn8" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sagarkshn8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sagarkshn8" height="30" width="40" /></a>  <a href="https://wa.me/+918809197377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
