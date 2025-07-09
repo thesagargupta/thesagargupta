@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 
 - 💼 Also experienced with **Next.js** and building modern full-stack web applications
 
-- 💬 Ask me about **Web Development, Software Engineering, and Data Analysis**
+- 💬 Ask me about **Web Development, Software Engineering, and Data Analytics**
 
 - 📫 How to reach me: **sagarkshn8@gmail.com**
 
