@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
   </a> 
 </p>
 
-- 🌱 Completed My **B.C.A from Rajasthan University**
+- 🌱 Completed **B.C.A from Rajasthan University**
 
 - 👨‍💻 I specialize in **MERN Stack Development (MongoDB, Express.js, React, Node.js) and Software Development**
 
