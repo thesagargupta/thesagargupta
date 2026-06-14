@@ -12,7 +12,6 @@ Full Stack Developer • AI Automation Engineer • SaaS Builder
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=thesagargupta&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/thesagargupta?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
